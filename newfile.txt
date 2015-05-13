@@ -1,1 +1,2 @@
 this is a file used to test branching
+this is a second line
